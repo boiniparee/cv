@@ -1,0 +1,28 @@
+img{
+    height: 200px;
+    /* background-color: black; */
+}
+hr{
+    /* background-color: white; */
+    border-style: dotted none none;
+    height: 0px;
+    width: 10%;
+    border-color: grey;
+    border-width: 5px;
+}
+body {
+    background-color: #E5B8F4;   
+}
+h1,h3{
+    color: #810CA8;
+    /* background-color: #E5B8F4; */
+}
+/* .abc{
+    color: aqua;
+} */
+a:hover{
+    background-color: aliceblue;
+}
+.gold:hover{
+    background-color: gold;
+}
